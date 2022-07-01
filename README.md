@@ -35,8 +35,8 @@ Varyans, gerçek değerden tahmin edilen değerin ne kadar dağınık olduğunu 
 
 •	**Yüksek Bias Düşük Varyans: Modeller tutarlıdır, ancak ortalama hata oranı yüksektir.
 
-•	**Yüksek Bias Yüksek Varyans : Modeller hem hatalı hem de tutarsızdır.
+•	Yüksek Bias Yüksek Varyans : Modeller hem hatalı hem de tutarsızdır.
 
-•	**Düşük Bias Düşük Varyans: Modeller ortalama olarak doğru ve tutarlıdır. Modellerimizde bu sonucu elde etmek için çabalamaktayız.
+•	Düşük Bias Düşük Varyans: Modeller ortalama olarak doğru ve tutarlıdır. Modellerimizde bu sonucu elde etmek için çabalamaktayız.
 
-•	**Düşük Bias Yüksek Varyans: Modeller bir dereceye kadar doğrudur ancak ortalamada tutarsızdır. Veri setinde ufak bir değişiklik yapıldığında büyük hata oranına neden olmaktadır.
+•	Düşük Bias Yüksek Varyans: Modeller bir dereceye kadar doğrudur ancak ortalamada tutarsızdır. Veri setinde ufak bir değişiklik yapıldığında büyük hata oranına neden olmaktadır.**
