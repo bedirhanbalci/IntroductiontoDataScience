@@ -5,7 +5,7 @@ Veri bilimi; istatistikler, bilimsel yöntemler, yapay zeka (AI) ve veri analizi
 Veri bilimi, gelişmiş veri analizi yapmak için verilerin temizlenmesi, birleştirilmesi ve işlenmesi dahil olmak üzere analiz için veri hazırlama sürecini içerir. Analiz uygulamaları ve veri bilimciler daha sonra sonuçları gözden geçirerek örüntüleri ortaya çıkarabilir ve işletme liderlerinin bilinçli içgörüler elde etmesine olanak sağlayabilir.
 ### Yapay Zeka ve Makine Öğrenimi Arasındaki Fark Nedir ?
 Veri biliminden faydalanmak ve daha etkin sonuçlar alabilmek için yapay zeka ve makine öğrenimi gibi alanla ilgili süreçlere hakim olmak aynı şekilde büyük önem taşıyor. Veri bilimi, yapay zeka ve makine öğrenimi kavramı her ne kadar belirli kaynaklarda birbirinin yerine kullanılsa da aralarında belirli farklar bulunuyor. Bu farklar şu şekilde özetlenebilir:
-•	Yapay Zeka: Bir bilgisayarın insan davranışlarını bir şekilde taklit etmesini sağlaması anlamına geliyor.
+•	**Yapay Zeka:** Bir bilgisayarın insan davranışlarını bir şekilde taklit etmesini sağlaması anlamına geliyor.
 
 •	Veri Bilimi: Yapay zeka bir üst kavram olarak veri bilimini içine alır. Veri bilimi istatistik, veri analizi ve bilimsel yöntemlerin ilgili alanlarını ifade eder. Bu kavram verilerden anlam çıkarmak ve içgörü elde etmek için kullanılır.
 
