@@ -13,6 +13,7 @@ Veri biliminden faydalanmak ve daha etkin sonuçlar alabilmek için yapay zeka v
 
 ### Veri Bilimi Teknikleri Nelerdir ?
 Classification (Sınıflandırma): Bir problemde, sonuçlar ayrı ayrı çıktılarda tahmin etmeye çalışılmaktadır. Yani, girdi değişkenlerini ayrı kategorilere atamaya çalıştırılmaktadır. Kırmızı, Sarı, veya Hasta, Sağlıklı gibi gruplandırmalar sınıflandırmaya örnek gösterilebilmektedir. Evin “öngörülen fiyattan daha fazla veya daha az bir miktarda satılıp satılmadığını” öğrenmek içinse bu örneği bir sınıflandırma problemine dönüştürebiliriz. Burada, satış fiyatlarına dayalı evleri iki ayrı kategoriye atarız.
+
 Regression (Eğri Uydurma): Bir problemde, sonuçlar sürekli bir çıktı içinde tahmin etmeye çalışılmaktadır; yani, girdi değişkenlerini bazı sürekli fonksiyonlara eşlemeye çalıştırılmaktadır. Dolar, Türk Lirası veya Kilo, Boy gibi gruplandırmalar eğri uydurmaya örnek gösterilebilmektedir. Gayrimenkul piyasasındaki evlerin büyüklüğü hakkında veriler verildiğinde, fiyatların önceden tahmin edilmesi. Fiyatı büyüklüğün bir fonksiyonu olarak sürekli bir çıktı olması nedeniyle, bu bir regresyon problemidir
 
 ### Makine Öğrenmesi temelde iki gruba ayrılmaktadır:
