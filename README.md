@@ -16,7 +16,7 @@ Classification (Sınıflandırma): Bir problemde, sonuçlar ayrı ayrı çıktı
 
 Regression (Eğri Uydurma): Bir problemde, sonuçlar sürekli bir çıktı içinde tahmin etmeye çalışılmaktadır; yani, girdi değişkenlerini bazı sürekli fonksiyonlara eşlemeye çalıştırılmaktadır. Dolar, Türk Lirası veya Kilo, Boy gibi gruplandırmalar eğri uydurmaya örnek gösterilebilmektedir. Gayrimenkul piyasasındaki evlerin büyüklüğü hakkında veriler verildiğinde, fiyatların önceden tahmin edilmesi. Fiyatı büyüklüğün bir fonksiyonu olarak sürekli bir çıktı olması nedeniyle, bu bir regresyon problemidir
 
-# Makine Öğrenmesi temelde iki gruba ayrılmaktadır:
+#### Makine Öğrenmesi temelde iki gruba ayrılmaktadır:
 Bunlar Supervised (Gözetimli) ve Unsupervised (Gözetimsiz) öğrenmedir.
 
 Supervised (Gözetimli) Öğrenme: Eğitim verileri üzerinden bir fonksiyon üreten bir makine öğrenmesi tekniğidir. Başka bir deyişle, bu öğrenme tekniğinde girdilerle (işaretlenmiş veri) ile istenen çıktılar arasında eşleme yapan bir fonksiyon üretmektedir. Bu öğrenme tekniğinde sınıf sayısı belli ve eğitilmiş veri bulunmaktadır.
